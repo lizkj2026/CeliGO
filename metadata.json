@@ -1,0 +1,6 @@
+{
+  "name": "CeliGO",
+  "description": "Tu santuario de opciones sin gluten (TACC). Localiza restaurantes, tiendas y marcas certificadas con seguridad y confianza.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
